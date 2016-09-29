@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=objN
+comment1.target=HelloWorld(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getObjectName()
+comment3.params=
+comment3.target=void\ helloWorld()
+comment4.params=
+comment4.target=void\ showPoints()
+comment5.params=
+comment5.target=void\ incPoints()
+comment6.params=
+comment6.target=void\ decPoints()
+numComments=7
